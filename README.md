@@ -10,9 +10,9 @@ There are 4 memus once it is compiled.
 
 The player is declared win once the GLsphere is found. High score are kept according to the time
 player spent to find this sphere.
-[!alt tag](http://amylily.io/wp-content/uploads/2016/11/Picture1.png)
+![alt tag](http://amylily.io/wp-content/uploads/2016/11/Picture1.png)
 
 
 
 The map of the maze is designed as below
-[!alt tag](http://amylily.io/wp-content/uploads/2016/11/Picture2.png)
+![alt tag](http://amylily.io/wp-content/uploads/2016/11/Picture2.png)
